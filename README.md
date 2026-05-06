@@ -6,6 +6,8 @@ I am building a compact open-source portfolio around agent tooling, MCP workflow
 
 If you only have 2 minutes, start with these:
 
+- Portfolio site: https://xtt1997.github.io/
+
 - [skillgrade](https://github.com/xtt1997/skillgrade)  
   Lint and scan Agent Skills before they become someone else's install problem.
 
